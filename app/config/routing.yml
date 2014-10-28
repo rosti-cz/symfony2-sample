@@ -1,0 +1,4 @@
+welcome_rosti:
+    resource: "@WelcomeRostiBundle/Resources/config/routing.yml"
+    prefix:   /
+

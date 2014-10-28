@@ -1,0 +1,3 @@
+welcome_rosti_homepage:
+    path:     /
+    defaults: { _controller: WelcomeRostiBundle:Default:index }
